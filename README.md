@@ -1,0 +1,1 @@
+Linnanmaa weather, edited version.
